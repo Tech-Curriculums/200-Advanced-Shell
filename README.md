@@ -20,7 +20,7 @@ Tools of the trade:
 
 * Bash Programming with Sed-Awk-Grep
   * the need for processing for proper piping
-  * Turn on your lights with :octocat: Github (arduino)
+  * Turn on your lights with (:octocat:) Github
   * Turn on a reverse shell with Github
   * Activate playlist from github
   * Stock Market tracker
